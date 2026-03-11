@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build folders
+bin/
+obj/
+
+# WebView2
+*.WebView2/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini

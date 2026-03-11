@@ -1,2 +1,5 @@
-2024/09/28-10:02:29.134 2f48 Creating DB C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Site Characteristics Database since it was missing.
-2024/09/28-10:02:29.148 2f48 Reusing MANIFEST C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/11-00:00:29.637 628c Log #3: 2 ops saved to Table #4 OK
+2026/03/11-00:00:29.641 628c Archiving E:\PowerApps\Xrm Tool\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2026/03/11-00:00:29.641 628c Table #4: 2 entries OK
+2026/03/11-00:00:29.649 628c Archiving E:\PowerApps\Xrm Tool\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/11-00:00:29.659 628c **** Repaired leveldb E:\PowerApps\Xrm Tool\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Site Characteristics Database; recovered 1 files; 191 bytes. Some data may have been lost. ****

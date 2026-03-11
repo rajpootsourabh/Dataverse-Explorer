@@ -218,6 +218,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controls\DataverseExplorerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataverseExplorerControl.Designer.cs">
+      <DependentUpon>DataverseExplorerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Services\DataverseExplorerService.cs" />
     <Compile Include="Services\EntityCreationService.cs" />
     <Compile Include="MyPlugin.cs" />
     <Compile Include="MyPluginControl.cs">
@@ -234,6 +241,9 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+    <EmbeddedResource Include="Controls\DataverseExplorerControl.resx">
+      <DependentUpon>DataverseExplorerControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Resources\CRMEntitySample.xlsx" />
   </ItemGroup>
   <ItemGroup>

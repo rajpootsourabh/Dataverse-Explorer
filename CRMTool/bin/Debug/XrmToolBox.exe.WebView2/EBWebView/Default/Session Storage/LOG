@@ -1,3 +1,2 @@
-2024/09/29-00:04:40.334 3850 Reusing MANIFEST C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
-2024/09/29-00:04:40.337 3850 Recovering log #3
-2024/09/29-00:04:40.341 3850 Reusing old log C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Session Storage/000003.log 
+2026/03/11-00:00:30.904 58d4 Creating DB E:\PowerApps\Xrm Tool\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Session Storage since it was missing.
+2026/03/11-00:00:30.920 58d4 Reusing MANIFEST E:\PowerApps\Xrm Tool\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001

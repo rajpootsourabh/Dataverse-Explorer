@@ -1,2 +1,3 @@
-2024/09/28-10:02:29.134 3bb0 Creating DB C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2024/09/28-10:02:29.153 3bb0 Reusing MANIFEST C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/09/29-00:04:39.374 21c0 Reusing MANIFEST C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/09/29-00:04:39.376 21c0 Recovering log #3
+2024/09/29-00:04:39.377 21c0 Reusing old log C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\XrmToolBox.exe.WebView2\EBWebView\Default\Sync Data\LevelDB/000003.log 
